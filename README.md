@@ -1,15 +1,19 @@
 ### Hi there, i'm Rogério Felix 👋
 
-<div  align="center" style="margin-bottom:100px">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RSFelix&theme=dracula&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSFelix&show_icons=true&theme=dracula&layout=compact" />
+<div  align="center">
+  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=RSFelix&theme=dracula&mode=weekly" />
+  &nbsp;
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSFelix&show_icons=true&theme=dracula&layout=compact" />
 </div>
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
+<div  align="center" style="margin-bottom:100px">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RSFelix/RSFelix/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RSFelix/RSFelix/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/RSFelix/RSFelix/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
 &nbsp;
 &nbsp;
@@ -70,4 +74,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04a2a2&height=120&section=footer"/>
